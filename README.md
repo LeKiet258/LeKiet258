@@ -1,6 +1,6 @@
 # 💫About Me :
-A junior student majoring in Data Science at Ho Chi Minh University of Science (HCMUS) - VNUHCM
-
+- A junior student majoring in Data Science at Ho Chi Minh University of Science (HCMUS) - VNUHCM
+- Currently looking for an internship :D
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/LeKiett/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@lekietvn) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/16834508) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCCDggmyWlk5_k1Ag96XMKVw) 
@@ -11,9 +11,6 @@ A junior student majoring in Data Science at Ho Chi Minh University of Science (
 ![](https://github-readme-stats.vercel.app/api?username=LeKiet258&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=LeKiet258&theme=dracula&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=LeKiet258&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=LeKiet258&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
 
 ---
 ![](https://komarev.com/ghpvc/?username=LeKiet258&label=Visitors+Count&color=brightgreen)
